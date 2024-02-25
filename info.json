@@ -1,0 +1,13 @@
+{
+    "OWNER_IDS": [
+      761635564835045387
+    ],
+    "name": "BOT-NAME",
+    "server": "https://discord.gg/vayuesports",
+    "ch": "LOGS-CHANNEL",
+    "OpenAi": "Put-Your-OpenAI-API-Key-Here IF YOU HAVE",
+    "EXTENSIONS": ["cogs.events"],
+    "np": [
+      761635564835045387
+    ]
+}
