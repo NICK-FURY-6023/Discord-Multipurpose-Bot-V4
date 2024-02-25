@@ -1,0 +1,48 @@
+{
+  "guilds": {
+      "1206181726880145459": {
+          "welcome": {
+              "autodel": 0,
+              "channel": [],
+              "color": "",
+              "embed": false,
+              "footer": "",
+              "image": "",
+              "message": "<<user.mention>> Welcome To <<server.name>>",
+              "ping": false,
+              "title": "",
+              "thumbnail": ""
+          },
+          "autorole": {
+              "bots": [],
+              "humans": []
+          },
+          "vcrole": {
+              "bots": "",
+              "humans": ""
+          }
+      },
+      "1051821901229588564": {
+          "welcome": {
+              "autodel": 0,
+              "channel": [],
+              "color": "",
+              "embed": false,
+              "footer": "",
+              "image": "",
+              "message": "<<user.mention>> Welcome To <<server.name>>",
+              "ping": false,
+              "title": "",
+              "thumbnail": ""
+          },
+          "autorole": {
+              "bots": [],
+              "humans": []
+          },
+          "vcrole": {
+              "bots": "",
+              "humans": ""
+          }
+      }
+  }
+}
